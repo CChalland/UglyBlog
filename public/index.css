@@ -2,5 +2,5 @@ body {
   font-family: Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans,
     Tahoma, sans-serif;
   font-size: 14px;
-  background-image: url("dark.png");
+  background-image: image-url("dark.png");
 }
